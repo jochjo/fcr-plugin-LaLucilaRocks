@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="nodjo.plugin.xkcd"
+    package="jochjo.plugin.lalucilarocks"
     android:installLocation="auto"
     android:versionCode="3"
     android:versionName="1.2" >
@@ -16,7 +16,7 @@
         android:icon="@drawable/icon"
         android:label="@string/app_name" >
         <service
-            android:name="nodjo.plugin.xkcd.Xkcd"
+            android:name="jochjo.plugin.lalucilarocks.La Lucila Rocks!"
             android:exported="true"
             android:icon="@drawable/icon"
             android:label="@string/comic_name" >
